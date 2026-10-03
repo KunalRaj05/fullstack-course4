@@ -1,1 +1,57 @@
+/* Body */
+body {
+    font-size: 16px;
+    color: #000;
+    background-color: #fff;
+}
 
+/* Navbar */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+/* Food, LLC */
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Mobile dropdown */
+#mobile-menu {
+    background-color: #e7e7e7;
+    border-top: 1px solid #ccc;
+}
+
+/* Menu items */
+#mobile-menu li a {
+    color: #000;
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Our Menu heading */
+h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Main menu section */
+.menu-section {
+    background-color: #d9edf7;
+    min-height: 1000px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Section heading */
+.menu-section h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+/* Paragraph */
+.menu-section p {
+    line-height: 1.6;
+}
